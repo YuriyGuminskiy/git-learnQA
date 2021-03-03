@@ -6,8 +6,13 @@ on this their chosen battle field
 -Shield by shield
 -Side by side
 -We're marching into destiny
+<<<<<<< Updated upstream
 -
 -March as one
 -Don't look back
 -Oden's sons
 -Attack!
+=======
+
+to be continued
+>>>>>>> Stashed changes
