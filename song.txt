@@ -1,18 +1,17 @@
-Just first commit
-standing strong
-on this their chosen battle field
+Вечная зима (M.T.M.)
 
--Form the lines
--Shield by shield
--Side by side
--We're marching into destiny
-<<<<<<< Updated upstream
--
--March as one
--Don't look back
--Oden's sons
--Attack!
-=======
+Куплет 1: 	Серо все вокруг
+		Цепь холодных рук
+		День как будто уснул
+		Лишь нескончаемый гул
+		Все не просто так
+		И никто не враг
+		Мы в объятьях льда
+		Мир сковала зима
 
-to be continued
->>>>>>> Stashed changes
+Припев:		И летят километры снегом путь заметая
+		Мы с тобою как ветры ничего - не прощаем
+		Вьюга пусть завывает, лёд хрустит под ногами
+		Мы с тобою как ветры – пустота между нами
+		
+		FOR FEATURE part 1
